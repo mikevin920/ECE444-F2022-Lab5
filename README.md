@@ -9,7 +9,7 @@ https://github.com/ECE444-2022Fall/project-1-web-application-design-education-pa
 
 ## Pros and Cons of TDD
 Test-driven development is the process of writing unit tests first before writing actual codes of the software, as compared to the process of finishing the software then writing up tests. Here are some pros and cons of TDD.
-####Pros:
+#### Pros:
 1. Easier teamwork - Team members may rapidly comprehend one other's code and make changes knowing that errors will be found in unit testing.
 2. Simple maintenance - it is easy to discover errors from modification of the code since the unit test was already written.
 3. Modular codebase - The code must be sufficiently modular to allow for comprehensive testing of each feature before writing small unit tests one at a time.
